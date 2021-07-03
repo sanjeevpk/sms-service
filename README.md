@@ -1,7 +1,9 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+This microservice is used for sending SMS's or OTP's to the registered users.
+
+We have used Twillio as a SMS gateway in this service.
 
 
 ## Authors
