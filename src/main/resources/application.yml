@@ -1,0 +1,8 @@
+twilio:
+ #account_sid: AC6b6c23b376f8dfdf92d56b9a8a57f380
+ #auth_token: 740fdc32bb289129260acaea413dcc6f
+ #trial_number: +19893107966
+ 
+ account_sid: AC99b0d6b820c8b0616f5ad408ec182c04
+ auth_token: b355c2306e86815a0627f16a36b45e36
+ trial_number: +12532525397
